@@ -1,3 +1,5 @@
+package javapt;
+
 import java.util.Scanner;
 
 public class Hollowrect {

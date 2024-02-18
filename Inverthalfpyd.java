@@ -1,3 +1,4 @@
+package javapt;
 import java.util.Scanner;
 public class Inverthalfpyd {
     public static void main(String[] args) {
