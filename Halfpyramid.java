@@ -1,3 +1,5 @@
+package javapt;
+
 public class Halfpyramid {
     public static void main(String[] args) {
         int n = 4;
