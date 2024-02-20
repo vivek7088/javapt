@@ -1,4 +1,4 @@
-package javapt;
+
 
 import java.util.Scanner;
 
